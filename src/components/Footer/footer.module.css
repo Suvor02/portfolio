@@ -1,0 +1,26 @@
+.footerDiv{
+    width: 100%;
+    background-color: #180044;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.footerInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 280px;
+}
+.footerInfo span {
+    background-color: #1500ce;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+

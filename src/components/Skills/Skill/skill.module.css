@@ -1,0 +1,18 @@
+.skill {
+    width: 250px;
+    background-color: #00ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    margin-right:5px;
+    margin-left:5px;
+}
+.plug{
+    height: 60px;
+    width: 60px;
+    background-color: #3fff25;
+}

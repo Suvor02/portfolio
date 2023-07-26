@@ -1,0 +1,23 @@
+.skillsDiv{
+    width: 100%;
+    background-color: #c78901;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container{
+    width: 100%;
+    background-color: #535bf2;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.skills {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

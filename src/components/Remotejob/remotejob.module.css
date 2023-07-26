@@ -1,0 +1,24 @@
+.remotejobDiv{
+    width: 100%;
+    background-color: #0416ff;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    /*justify-content: space-between;*/
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.button{
+ width: 40%;
+}
+.button:hover{
+    background-color: #8500ff;
+}
+
+
+
+
